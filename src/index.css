@@ -6,11 +6,12 @@ html{
 
 
 body {
-  margin: 0;
-  font-family: 300 11px/1.4 'Helvetica Neue', 'sans-serif';
-  color: #444;
-  background: #022c43;
   display: block;
+  margin: 0;
+  font-family: 'Silkscreen', cursive;
+  color: #444;
+  background: #474d51;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
