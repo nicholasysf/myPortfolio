@@ -13,6 +13,7 @@
         margin: 0;
 
     }
+
 }
 
 h2{
@@ -65,5 +66,16 @@ h2{
           height:100%;
           // border-color:white;
         }
+      }
+    }
+
+    .clay{
+      img{
+        position: relative;
+        width: 400px;
+        height: 400px;
+        margin-top: 15%;
+        margin-left: 60%;
+        border-radius: 50%;
       }
     }
