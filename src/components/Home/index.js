@@ -11,12 +11,13 @@ const Home = () =>{
     useEffect(() => {
         setTimeout(() => {
           setLetterClass('text-animate-hover')
-        }, 4000)
+        }, 5000)
       }, [])
 
     return(
     <>  
         <div className="container home-page">
+            {/* TEXT AREA */}
             <div className="text-zone">
                 <h1>
                 <span className={letterClass}>H</span>
@@ -32,6 +33,7 @@ const Home = () =>{
                 <h2>Frontend developer.</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
+            {/* CLAY AVATAR */}
             <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleytps://github.com/nicholasysf" className="clay">
                 <img src={profile} alt="profile"></img>
             </a>
