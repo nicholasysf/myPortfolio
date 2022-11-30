@@ -26,7 +26,7 @@ const About = () => {
                 </h1>
                 <p>I'm Nicholas,a fresh graduate from Singapore Institute of technology, majoring in Electrical Engineering and Information Technology and I'm looking for job opportunities as a front-end developer. </p>
                 <br/>
-                <p>I'm currently trying to master the tools of Frontend development technologies and are currently equipped with skills like HTML5, CSS3, SASS, REACTJS ,GIT, etc. Nonetheless, my near future goal is get to ultimately learn the skillset of a full stack developer, particularly the MERN stack.</p>
+                <p>I'm currently trying to master the tools of Frontend development technologies and are currently equipped with skills like HTML5, CSS3, SASS, REACTJS ,GIT, etc. Nonetheless, my near future goal is to ultimately learn the skillset of a full stack developer, particularly the MERN stack.</p>
                 <br/>
                 <p>Should you have any opportunities for me, feel free to contact me. </p>
             </div>
