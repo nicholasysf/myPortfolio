@@ -3,6 +3,7 @@ import './index.scss'
 import { useState, useEffect } from "react"
 import AnimatedLetters from "../AnimatedLetters"
 import profile from "../../assets/images/profile.png"
+import Loader from "react-loaders"
 const Home = () =>{
     const [letterClass,setLetterClass] = useState('text-animate');
     const nameArray = [' ','n','i','c','h','o','l','a','s'];
@@ -38,6 +39,7 @@ const Home = () =>{
                 <img src={profile} alt="profile"></img>
             </a>
         </div>
+        <Loader type="pacman"/>
     </>  
     )
 }
