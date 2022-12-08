@@ -35,7 +35,7 @@ const Home = () =>{
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
             {/* CLAY AVATAR */}
-            <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleytps://github.com/nicholasysf" className="clay">
+            <a target="_blank" rel="noreferrer" href="https://github.com/nicholasysf/myPortfolio" className="clay">
                 <img src={profile} alt="profile"></img>
             </a>
         </div>

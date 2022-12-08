@@ -26,11 +26,11 @@ const About = () => {
                         idx={15}
                     />
                 </h1>
-                <p>I'm Nicholas,a fresh graduate from Singapore Institute of technology, majoring in Electrical Engineering and Information Technology and I'm looking for job opportunities as a front-end developer. </p>
+                <p>I'm Nicholas, a fresh graduate from Singapore Institute of technology, majoring in Electrical Engineering and Information Technology. I'm currently looking for job opportunities as a front-end developer. </p>
                 <br/>
-                <p>I'm currently trying to master the tools of Frontend development technologies and are currently equipped with skills like HTML5, CSS3, SASS, REACTJS ,GIT, etc. Nonetheless, my near future goal is to ultimately learn the skillset of a full stack developer, particularly the MERN stack.</p>
+                <p>I'm building my software development capabilities by working on Frontend development projects using languages and frameworks like HTML5, CSS3, Javscript, SASS, REACTJS, GIT and many more. Ultimately, I aim to transit into a full stack developer, specifically specializing in the MERN stack. </p>
                 <br/>
-                <p>Should you have any opportunities for me, feel free to contact me. </p>
+                <p>Should you have any opportunities and feel that I am a good fit, do reach out and contact me. </p>
             </div>
             {/* ROTATING CUBE ANIMATION HERE */}
             <div className='stage-cube-cont'>
